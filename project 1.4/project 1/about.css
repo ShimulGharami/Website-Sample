@@ -1,0 +1,31 @@
+*{
+	outline:0;
+	padding:0;
+	margin:0;
+}
+.body{
+	font-family:arial;
+	font-size:20px;
+	line-height:20px;
+}
+.heading {
+	size:76px;
+	overflow:hidden;
+	background: #007CA4;
+}
+	
+.title {
+	margin-left: 475px;
+	
+	color: #FFFFFF;
+	font-size: 66px;
+}
+.write {
+	background: #42B2DA;
+	font-size: 30px;
+	margin-left: 22px;
+	margin-top: 15px;
+}
+.write p {
+	margin-left:8px;
+}

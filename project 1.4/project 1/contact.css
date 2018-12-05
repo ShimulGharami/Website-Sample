@@ -1,0 +1,56 @@
+*{
+	outline:0;
+	padding:0;
+	margin:0;
+}
+.body{
+	font-family:arial;
+	font-size:20px;
+	line-height:20px;
+}
+.heading {
+	size:76px;
+	overflow:hidden;
+	background: #007CA4;
+}
+	
+.title {
+	margin-left: 475px;
+	
+	color: #FFFFFF;
+	font-size: 66px;
+}
+
+.shimul{
+	overflow:hidden;
+	
+}
+.name {
+	height: 126px;
+	width: 1283px;
+	background: #686868;
+	margin-left: 66px;
+	margin-top: 23px;
+	font-size: 23px;
+	color: #ffffff;
+	float: left;
+	margin-right: 66px;
+}
+.name p{
+	margin-left:5px;
+}
+
+.sosal{
+float:left;
+
+	
+}
+.sosal a{
+	float: left;
+}
+.sosal a img {
+	width: 36px;
+	height: 34px;
+	float: left;
+	margin: 5px;
+}
